@@ -1,3 +1,5 @@
+#include <math.h>
+
 #include "grid.h"
 #include "../planet.h"
 

@@ -1,3 +1,5 @@
+#include <math.h>
+
 #include "globe_renderer.h"
 #include "../math/math_common.h"
 #include "../math/vector2.h"

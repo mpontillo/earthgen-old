@@ -32,3 +32,6 @@ desktop.ini
 
 # Saved text files
 *.txt
+
+# qtcreator
+earthgen.pro.user
